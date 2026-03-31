@@ -1,0 +1,7 @@
+{
+  "name": "Moksh – The Magfirat Foundation",
+  "description": "An Education & Social Welfare NGO dedicated to empowering communities through knowledge and support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
